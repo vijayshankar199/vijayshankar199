@@ -20,6 +20,8 @@ A passionate full-stack developer
 
 <a href="http://www.github.com/vijayshankar199"><img src="https://github-readme-stats.vercel.app/api?username=vijayshankar199&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=14b8a6&icon_color=0891b2&bg_color=27272a&hide_border=true&show_icons=true" alt="vijayshankar199's GitHub stats" /></a>
 
+<a href="http://www.github.com/vijayshankar199"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vijayshankar199&stroke=14b8a6&background=27272a&ring=3382ed&fire=3382ed&currStreakNum=14b8a6&currStreakLabel=3382ed&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
+
 <a href="https://github.com/vijayshankar199" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayshankar199&langs_count=10&title_color=3382ed&text_color=14b8a6&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
