@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A passionate full-stack developer
 ---------------------------------
 
-<img align="right" alt="Coading" width="400" src="https://camo.githubusercontent.com/9598e31248e0d0f2f0067ae8cf24c68d2226621cdc3ee5303f930e4a3ea66ab4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" >
+<img align="right" alt="Coading" src="https://in.pinterest.com/pin/31877109856995591/" >
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [Vijayasankarpitchuka@gmail.com](mailto:Vijayasankarpitchuka@gmail.com)
@@ -24,7 +24,10 @@ src="https://img.shields.io/github/followers/vijayshankar199?logo=github&style=f
 
 <a href="http://www.github.com/vijayshankar199"><img src="https://github-readme-stats.vercel.app/api?username=vijayshankar199&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=14b8a6&icon_color=0891b2&bg_color=27272a&hide_border=true&show_icons=true" alt="vijayshankar199's GitHub stats" /></a>
 
+
 <a href="http://www.github.com/vijayshankar199"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vijayshankar199&stroke=14b8a6&background=27272a&ring=3382ed&fire=3382ed&currStreakNum=14b8a6&currStreakLabel=3382ed&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
+
+<img align="right" alt="Coading" width="400" src="https://camo.githubusercontent.com/e48401e4018d3287d387998dcbdd928fbe90d0a686ea201ac1dc58f00e5d85c9/68747470733a2f2f6f776c6265727473696f2d726573697a65642e73332e616d617a6f6e6177732e636f6d2f506f707065722e7073642e66756c6c2e706e67" >
 
 <a href="https://github.com/vijayshankar199" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayshankar199&langs_count=10&title_color=3382ed&text_color=14b8a6&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
