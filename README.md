@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A passionate full-stack developer
 ---------------------------------
 
-<img align="right" alt="Coading" src="https://in.pinterest.com/pin/31877109856995591/" >
+<img align="right" alt="Coading" src="https://www.pinterest.com/ideas/coding-gif-banner/929630361081/" >
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [Vijayasankarpitchuka@gmail.com](mailto:Vijayasankarpitchuka@gmail.com)
